@@ -1,0 +1,51 @@
+*{background-color: #C7C7C7;}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color: blueviolet;
+    text-shadow: burlywood 3px 3px;
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+    color: crimson;
+    text-shadow: chartreuse 2px 2px;
+}
+
+button{
+    font-family: 'Satisfy', cursive;
+    font-size: 1.5rem;
+    cursor: pointer;
+    background-color: chartreuse;
+    color: darkblue;
+}
+
+h3{
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: darkred 2px 2px;
+}
+
+h4{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5rem;
+    width: 160px;
+    margin-left: 40px;
+}
+
+p{
+    text-align: center;
+    font-size: 2rem;
+    font-family: cursive;
+    color: dodgerblue;
+}
+
+.Whitehat{
+    text-align: center;
+    font-size: 3rem;
+    font-style: italic;
+    font-family: cursive;
+}
